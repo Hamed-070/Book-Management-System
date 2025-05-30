@@ -31,8 +31,5 @@ It allows users to add, view, update, and delete book records with ease. Ideal f
 
   🚀 Getting Started
 
-      Clone the repo and follow setup instructions:
-
-      git clone https://github.com/Hamed-070/Book-Management-System.git
-      cd book-management-system
-
+     1.clone project and put them in a certain folder .
+     2.Run the Main.py 
