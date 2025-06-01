@@ -33,4 +33,4 @@ It allows users to add, view, update, and delete book records with ease. Ideal f
 
      1.clone project and put them in a certain folder .
      2.Run the Main.py 
-     3.Storang file will be created
+     3.storang.csv file will be created
